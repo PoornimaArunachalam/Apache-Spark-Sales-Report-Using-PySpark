@@ -1,0 +1,11 @@
+transaction_id,customer_id,product,amount,region
+1,101,Laptop,50000,South
+2,102,Mobile,20000,North
+3,103,Tablet,15000,East
+4,104,Laptop,60000,South
+5,105,Headphones,3000,West
+6,106,Mobile,25000,North
+7,107,Tablet,18000,East
+8,108,Laptop,55000,South
+9,109,Headphones,4000,West
+10,110,Mobile,22000,North
